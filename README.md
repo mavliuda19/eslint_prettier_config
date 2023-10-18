@@ -1,0 +1,1 @@
+# eslint_prettier_config
